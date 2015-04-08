@@ -1,5 +1,7 @@
 # Chronos [![Build Status](https://travis-ci.org/mesos/chronos.svg?branch=master)](https://travis-ci.org/mesos/chronos)
 
+** With Canopy Labs changes **
+
 __New detailed documentation for Mesos available via the [Mesosphere Website](http://mesosphere.io/docs/)__
 
 Chronos is Airbnb's replacement for `cron`.
